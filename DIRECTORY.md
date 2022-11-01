@@ -496,8 +496,6 @@
 ## Maths
   * [3N Plus 1](maths/3n_plus_1.py)
   * [Abs](maths/abs.py)
-  * [Abs Max](maths/abs_max.py)
-  * [Abs Min](maths/abs_min.py)
   * [Add](maths/add.py)
   * [Addition Without Arithmetic](maths/addition_without_arithmetic.py)
   * [Aliquot Sum](maths/aliquot_sum.py)
@@ -701,6 +699,7 @@
   * [Casimir Effect](physics/casimir_effect.py)
   * [Centripetal Force](physics/centripetal_force.py)
   * [Horizontal Projectile Motion](physics/horizontal_projectile_motion.py)
+  * [Hubble Parameter](physics/hubble_parameter.py)
   * [Ideal Gas Law](physics/ideal_gas_law.py)
   * [Kinetic Energy](physics/kinetic_energy.py)
   * [Lorentz Transformation Four Vector](physics/lorentz_transformation_four_vector.py)
